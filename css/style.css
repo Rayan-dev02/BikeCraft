@@ -4,12 +4,15 @@
 /* HEADER */
 @import url(../header/header.css);
 
-/* MAIN */
-@import url(../main/main.css);
-
 /* UTILITARIOS */
-@import url(../utilitatios/componentes.css);
-@import url(../utilitatios/cores.css);
-@import url(../utilitatios/tipografia.css);
+@import url(../utilitarios/componentes.css);
+@import url(../utilitarios/cores.css);
+@import url(../utilitarios/tipografia.css);
+
+/* HOME */
+@import url(../introducao/introducao.css);
+
+/* BICICLETAS */
+@import url(../bicicletas/bicicletas.css);
 
 

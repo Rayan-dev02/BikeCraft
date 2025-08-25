@@ -1,0 +1,43 @@
+:root{
+    --cor-branco: white;
+    --cor-cinza:#b2b2b2;
+    --cor-pretoE:#000000;
+    --cor-pretoC:#111111;
+    --cor-bg-pretoE:#2e2e2e;
+    --cor-bg-preto:#000000;
+    --cor-bg-pretoC:#111111;
+    --cor-laranja:#f2a50c;
+    --cor-laranja2:#a66f00;
+    --cor-laranja3:#664400;
+    --cor-laranja4:#332200;
+}
+
+.cor-branco{
+    color: var(--cor-branco) ;
+}
+
+.cor-cinza{
+    color: var(--cor-cinza);
+}
+
+.cor-pretoE{
+    color: var(--cor-pretoE);
+}
+
+.cor-laranja{
+    color: var(--cor-laranja);
+
+}
+
+.cor-bg-pretoE{
+    background-color: var(--cor-bg-pretoE);
+
+}
+
+.cor-bg-preto{
+    background-color: var(--cor-bg-preto);
+}
+
+.cor-bg-pretoC{
+    background-color: var(--cor-bg-pretoC);
+}
