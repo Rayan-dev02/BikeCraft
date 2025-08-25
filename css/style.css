@@ -10,9 +10,10 @@
 @import url(../utilitarios/tipografia.css);
 
 /* HOME */
-@import url(../introducao/introducao.css);
+@import url(../home/introducao.css);
+@import url(../home/bicicletas.css);
+@import url(../home/tecnologia.css);
 
-/* BICICLETAS */
-@import url(../bicicletas/bicicletas.css);
+
 
 
