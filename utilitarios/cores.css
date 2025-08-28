@@ -24,6 +24,10 @@
     color: var(--cor-pretoE);
 }
 
+.cor-pretoC{
+    color: #111111;
+}
+
 .cor-laranja{
     color: var(--cor-laranja);
 
